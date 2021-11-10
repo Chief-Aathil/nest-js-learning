@@ -24,4 +24,6 @@ export class ProdutService {
         }
         return { ...product };
     }
+
+    // updateProduct(productId:string,title:string,)
 }
